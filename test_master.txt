@@ -1,1 +1,2 @@
 master text 
+merge test master
